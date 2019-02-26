@@ -1,0 +1,91 @@
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/WindowsFormsApp3.exe.config
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/WindowsFormsApp3.exe
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/WindowsFormsApp3.pdb
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/DevExpress.Data.v18.1.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/DevExpress.Printing.v18.1.Core.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/DevExpress.Sparkline.v18.1.Core.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/DevExpress.Utils.v18.1.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/DevExpress.XtraEditors.v18.1.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/DevExpress.Pdf.v18.1.Core.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/DevExpress.Data.v18.1.xml
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/DevExpress.Printing.v18.1.Core.xml
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/DevExpress.Sparkline.v18.1.Core.xml
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/DevExpress.Utils.v18.1.xml
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/DevExpress.XtraEditors.v18.1.xml
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/DevExpress.Pdf.v18.1.Core.xml
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/de/DevExpress.Data.v18.1.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/es/DevExpress.Data.v18.1.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/ja/DevExpress.Data.v18.1.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/ru/DevExpress.Data.v18.1.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/de/DevExpress.Printing.v18.1.Core.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/es/DevExpress.Printing.v18.1.Core.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/ja/DevExpress.Printing.v18.1.Core.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/ru/DevExpress.Printing.v18.1.Core.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/de/DevExpress.Sparkline.v18.1.Core.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/es/DevExpress.Sparkline.v18.1.Core.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/ja/DevExpress.Sparkline.v18.1.Core.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/ru/DevExpress.Sparkline.v18.1.Core.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/de/DevExpress.Utils.v18.1.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/es/DevExpress.Utils.v18.1.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/ja/DevExpress.Utils.v18.1.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/ru/DevExpress.Utils.v18.1.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/de/DevExpress.XtraEditors.v18.1.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/es/DevExpress.XtraEditors.v18.1.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/ja/DevExpress.XtraEditors.v18.1.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/ru/DevExpress.XtraEditors.v18.1.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/de/DevExpress.Pdf.v18.1.Core.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/es/DevExpress.Pdf.v18.1.Core.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/ja/DevExpress.Pdf.v18.1.Core.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/bin/Debug/ru/DevExpress.Pdf.v18.1.Core.resources.dll
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.csprojResolveAssemblyReference.cache
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.Child.resources
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.Form1.resources
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.Properties.Resources.resources
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.csproj.GenerateResource.cache
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.csproj.CoreCompileInputs.cache
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.csproj.CopyComplete
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.exe
+c:/users/yates walker/source/repos/WindowsFormsApp3/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.pdb
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/WindowsFormsApp3.exe.config
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/WindowsFormsApp3.exe
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/WindowsFormsApp3.pdb
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/DevExpress.Pdf.v18.1.Core.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/DevExpress.Data.v18.1.xml
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/DevExpress.Printing.v18.1.Core.xml
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/DevExpress.Sparkline.v18.1.Core.xml
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/DevExpress.Utils.v18.1.xml
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/DevExpress.XtraEditors.v18.1.xml
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/DevExpress.Pdf.v18.1.Core.xml
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/de/DevExpress.Data.v18.1.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/es/DevExpress.Data.v18.1.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/ja/DevExpress.Data.v18.1.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/ru/DevExpress.Data.v18.1.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/de/DevExpress.Printing.v18.1.Core.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/es/DevExpress.Printing.v18.1.Core.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/ja/DevExpress.Printing.v18.1.Core.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/ru/DevExpress.Printing.v18.1.Core.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/de/DevExpress.Sparkline.v18.1.Core.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/es/DevExpress.Sparkline.v18.1.Core.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/ja/DevExpress.Sparkline.v18.1.Core.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/ru/DevExpress.Sparkline.v18.1.Core.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/de/DevExpress.Utils.v18.1.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/es/DevExpress.Utils.v18.1.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/ja/DevExpress.Utils.v18.1.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/ru/DevExpress.Utils.v18.1.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/de/DevExpress.XtraEditors.v18.1.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/es/DevExpress.XtraEditors.v18.1.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/ja/DevExpress.XtraEditors.v18.1.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/ru/DevExpress.XtraEditors.v18.1.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/de/DevExpress.Pdf.v18.1.Core.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/es/DevExpress.Pdf.v18.1.Core.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/ja/DevExpress.Pdf.v18.1.Core.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/bin/Debug/ru/DevExpress.Pdf.v18.1.Core.resources.dll
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.csprojAssemblyReference.cache
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.Child.resources
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.Form1.resources
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.Properties.Resources.resources
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.csproj.GenerateResource.cache
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.csproj.CoreCompileInputs.cache
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.csproj.CopyComplete
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.exe
+/Users/mikewalker/Downloads/DelegateProject/WindowsFormsApp3/obj/Debug/WindowsFormsApp3.pdb
